@@ -6,3 +6,5 @@ Esse é um tocador midi feito com as bibliotecas padrão Java para interface gr�
 	Eduardo Calandrini - 13/0059595
 
 Trata-se de um tocador tradicional, com funções para escolher o arquivo que será tocado, iniciar, pausar e parar, modificar o volume, além de exibir alguns metadados que podem estar presentes nos arquivos midi (fórmula de compasso, andamento, tonalidade, etc).
+
+![ScreenShot](midiplayer.png)
